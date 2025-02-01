@@ -63,22 +63,4 @@ Your project is a **multi-page website** designed for a wedding and event planni
 
 ---
 
-### **Areas for Improvement:**
-1. **Performance Optimization:**
-   - The website could benefit from optimizing image sizes to improve loading times, especially on mobile devices.
-   
-2. **Accessibility:**
-   - Adding **alt text** to images and ensuring proper contrast for text would improve accessibility for users with disabilities.
-
-3. **Dynamic Content:**
-   - Currently, the content is static. Integrating a **CMS (Content Management System)** like WordPress or using JavaScript to dynamically load content could make the website more scalable.
-
-4. **SEO Optimization:**
-   - Adding meta tags, descriptions, and optimizing headings for search engines would improve the website's visibility on search engines.
-
-5. **Blog Page Content:**
-   - The blog page currently lacks content. Adding real blog posts or integrating a blog platform would make this section more useful.
-
----
-
 
