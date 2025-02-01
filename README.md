@@ -2,7 +2,7 @@
 
 EVENT MANAGEMENT WEBSITE
 
-Your project is a **multi-page website** designed for a wedding and event planning company called **"Kreative Events."** The website is built using **HTML, CSS, and Bootstrap**, and it provides a comprehensive platform for showcasing the company's services, portfolio, and contact information. Here's a detailed description of your project:
+Project is a **multi-page website** designed for a wedding and event planning company called **"Kreative Events."** The website is built using **HTML, CSS, and Bootstrap**, and it provides a comprehensive platform for showcasing the company's services, portfolio, and contact information. Here's a detailed description of your project:
 
 ---
 
