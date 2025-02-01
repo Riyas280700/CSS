@@ -81,5 +81,4 @@ Your project is a **multi-page website** designed for a wedding and event planni
 
 ---
 
-### **Conclusion:**
-Your project is a well-designed, responsive website that effectively showcases the services and portfolio of a wedding and event planning company. It demonstrates a solid understanding of **HTML, CSS, and Bootstrap**, and it provides a strong foundation for further enhancements. With some optimizations and additional features, this website could serve as a powerful tool for attracting clients and growing the business. Great job! 🚀
+
